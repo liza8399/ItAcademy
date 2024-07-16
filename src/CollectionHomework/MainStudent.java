@@ -1,4 +1,4 @@
-package CollectionPractice;
+package CollectionHomework;
 
 import java.util.*;
 

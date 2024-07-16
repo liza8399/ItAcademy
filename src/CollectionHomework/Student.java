@@ -1,6 +1,4 @@
-package CollectionPractice;
-
-import org.jetbrains.annotations.NotNull;
+package CollectionHomework;
 
 import java.util.Objects;
 
