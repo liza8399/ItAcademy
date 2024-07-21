@@ -1,4 +1,4 @@
-package FralovaHW7;
+package FralovaHW7.Model;
 
 import FralovaHW7.Interface.IBeep;
 import FralovaHW7.Interface.IDrive;

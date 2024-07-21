@@ -3,7 +3,6 @@ package FralovaHW7.Model;
 import FralovaHW7.Battery;
 import FralovaHW7.Engine;
 import FralovaHW7.Radiator;
-import FralovaHW7.Transport;
 
 import java.util.Objects;
 

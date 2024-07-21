@@ -5,6 +5,7 @@ import java.util.*;
 public class MainStudent {
 	public static void main(String[] args) {
 
+		// ArrayList
 		List<Student> students = new ArrayList<>();
 		students.add(new Student("Lizaveta", "Fralova", 19));
 		students.add(new Student("Vladislav", "Lukiyanets", 17));
@@ -18,6 +19,7 @@ public class MainStudent {
 		System.out.println("List of students: " + students);
 		System.out.println(" ");
 
+		//LinkedList
 		List<Student> students1 = new LinkedList<>();
 		students1.add(new Student("Vasiliy", "Vasylyev", 18));
 		students1.add(new Student("Ivan", "Ivanov", 19));
@@ -29,6 +31,7 @@ public class MainStudent {
 		System.out.println("List of students: " + students1);
 		System.out.println(" ");
 
+		//HashSet
 		Set<Student> students2 = new HashSet<>();
 		Student removedStudent = new Student("Natalya","Dyadelo", 21);
 		students2.add(removedStudent);
@@ -46,6 +49,7 @@ public class MainStudent {
 		}
 		System.out.println(" ");
 
+		//LinkedHashSet
 		Set<Student> students3 = new LinkedHashSet<>();
 		students3.add(removedStudent);
 		Student newStudent = new Student("Lizaveta", "Fralova", 19);
@@ -65,6 +69,7 @@ public class MainStudent {
 		System.out.println(students3);
 		System.out.println(" ");
 
+		//TreeSet
 		Set<Student> students4 = new TreeSet<>();
 		students4.add(newStudent);
 		students4.add(newStudent1);
