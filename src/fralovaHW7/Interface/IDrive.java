@@ -1,4 +1,4 @@
-package FralovaHW7.Interface;
+package fralovaHW7.Interface;
 
 public interface IDrive {
 

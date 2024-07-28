@@ -1,8 +1,8 @@
-package FralovaHW7.Model;
+package fralovaHW7.Model;
 
-import FralovaHW7.Interface.IBeep;
-import FralovaHW7.Interface.IDrive;
-import FralovaHW7.Interface.IPark;
+import fralovaHW7.Interface.IBeep;
+import fralovaHW7.Interface.IDrive;
+import fralovaHW7.Interface.IPark;
 
 public abstract class Transport implements IDrive, IPark, IBeep {
 

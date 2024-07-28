@@ -1,4 +1,4 @@
-package FralovaHW7;
+package fralovaHW7;
 
 public class Battery {
 

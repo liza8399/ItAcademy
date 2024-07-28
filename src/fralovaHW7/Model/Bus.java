@@ -1,8 +1,8 @@
-package FralovaHW7.Model;
+package fralovaHW7.Model;
 
-import FralovaHW7.Battery;
-import FralovaHW7.Engine;
-import FralovaHW7.Radiator;
+import fralovaHW7.Battery;
+import fralovaHW7.Engine;
+import fralovaHW7.Radiator;
 
 import java.util.Objects;
 

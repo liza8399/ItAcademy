@@ -1,7 +1,7 @@
-package FralovaHW7;
+package fralovaHW7;
 
 
-import FralovaHW7.Model.Car;
+import fralovaHW7.Model.Car;
 
 public class MainTransport {
 	public static void main(String[] args) {
